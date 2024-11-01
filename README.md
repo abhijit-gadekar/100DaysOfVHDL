@@ -1,2 +1,6 @@
-# 100DaysOfVHDL
-This repository documents my journey of learning VHDL (VHSIC Hardware Description Language) from the ground up. The goal is to explore the fundamental concepts of hardware design and digital logic, while sharing my progress, learnings, and code examples along the way.
+# 100 Days Of VHDL
+
+Hello Everyone, This is Abhijit Gadekar, an Electronics Enthusiast currently diving into the world of Digital Design using HDLs. In this repository I will share my learnings in VHDL from basics to advanced.
+
+Day 1: Logic Gates using VHDL (AND, NOT, OR, XOR, XNOR, NAND, NOR)
+
